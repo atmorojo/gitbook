@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Testing Site
+longtitle:        Test wether I could make Jekyll github pages just by forking it
+author:           Risyad Rais
+email:            -
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://atmorojo.github.io'
+baseurl:          '/test'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -51,7 +51,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-page_width: 800px
+page_width: 700px
 
 destination:      ./_site
 incremental:      false
