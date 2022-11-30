@@ -2,7 +2,7 @@
 title:            Testing Site
 longtitle:        Test wether I could make Jekyll github pages just by forking it
 author:           Risyad Rais
-email:            -
+# email:            -
 description: >
   Build Jekyll site with the GitBook style.
 
