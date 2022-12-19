@@ -1,6 +1,6 @@
 # Configurations
 title:            Testing Site
-longtitle:        Test wether I could make Jekyll github pages just by forking it
+longtitle:        Test wether I could make Jekyll github pages just by forking a repo.
 author:           Risyad Rais
 # email:            -
 description: >
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://atmorojo.github.io'
-baseurl:          '/test'
+baseurl:          '/gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
